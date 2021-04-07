@@ -1,0 +1,11 @@
+.footer {
+  height: 100px;
+  width: 100%;
+
+  background-color: black;
+}
+.footer > h2 {
+  color: blanchedalmond;
+  padding-top: 25px;
+  padding-left: 35%;
+}
